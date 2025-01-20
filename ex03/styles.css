@@ -1,0 +1,7 @@
+li {
+  color: coral;
+}
+ol li {
+  font-weight: bold;
+  color: blue;
+}
